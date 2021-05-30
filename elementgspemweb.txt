@@ -1,0 +1,13 @@
+-echo
+-aritmatika
+-string
+-variabel
+-titik koma
+-komentar
+-if else
+-switch
+-array loop
+-foreach
+-loop do while
+-array assosiatif
+-function di php
